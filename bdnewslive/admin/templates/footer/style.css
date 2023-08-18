@@ -1,0 +1,28 @@
+body 
+{
+	background: grey;
+}
+
+#footerMenuItems
+{
+
+	display: flex;
+	flex-direction: row;
+	margin: auto;
+	border: 2px solid yellow;
+	width: 99%;
+	height: auto;
+	min-height: auto;
+	max-height: auto;
+	background: #800023;
+}
+
+#items
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	height: auto;
+	text-decoration: none;
+	margin: auto;
+}

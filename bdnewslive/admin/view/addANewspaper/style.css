@@ -1,0 +1,65 @@
+#topMenuBar
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	margin: auto;
+	width: 90vw;
+	height: auto;
+	border: 2px solid orange;
+}
+
+#topMenuItem
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	margin: auto;
+	width: 10vw;
+	height: auto;
+	margin-right: 0vw;
+}
+
+
+
+#addANewspaperBloc
+{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	margin: 4vw;
+	padding: 2vw;
+	width: 80vw;
+	height: auto;
+	border: 2px solid orange;
+}
+
+
+#addNewspaperInputTextDesign
+{
+
+	width: 80%;
+	height: 5vh;
+	margin-bottom: 2%;
+}
+
+
+#menuItemBloc
+{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	margin: auto;
+	width: 33vw;
+	height: auto;
+	border: 2px solid red;
+}
+
+#addThisPaperButton
+{
+	background: orange;
+	width: auto;
+	height: 7vh;
+	text-align: center;
+	align-items: center;
+}

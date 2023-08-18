@@ -1,0 +1,31 @@
+#loginBloc
+{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	margin: auto;
+	border: 2px solid grey;
+	margin-top: 5vh;
+}
+
+#loginForm
+{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	text-align: center;
+	margin: auto;
+	margin-bottom: 10vh;
+	padding: 5vw;
+	border: 2px solid red;
+	box-shadow: 2px 5px 2px 5px orange;
+}
+
+#loginButton
+{
+	background: orange;
+	width: auto;
+	height: 7vh;
+	text-align: center;
+	align-items: center;
+}
